@@ -1,2 +1,3 @@
+ResultSet rs = ps.executeQuery();
 Properties props = new Properties();
 hello world
