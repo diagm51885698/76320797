@@ -1,4 +1,5 @@
 ps.close();
+ps.close();
 } finally {
 
 } catch (IOException e) {
