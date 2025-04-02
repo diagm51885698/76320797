@@ -1,3 +1,4 @@
+test.init();
 Class.forName(driverClass);
 public class OracleJdbcTest
 // do the thing you do
